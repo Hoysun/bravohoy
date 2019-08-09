@@ -8,8 +8,6 @@
 out
 gen
 doc/
-.gitignore
-.idea/.gitignore
 .idea/description.html
 .idea/misc.xml
 .idea/modules.xml
