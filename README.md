@@ -1,2 +1,0 @@
-# bravohoy
-personal game

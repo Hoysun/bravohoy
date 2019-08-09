@@ -7,12 +7,3 @@
 *.iml
 out
 gen
-doc/
-.idea/description.html
-.idea/misc.xml
-.idea/modules.xml
-.idea/project-template.xml
-.idea/vcs.xml
-out/
-src/
-untitled104.iml
